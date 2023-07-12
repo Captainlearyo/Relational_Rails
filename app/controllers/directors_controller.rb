@@ -6,4 +6,6 @@ class DirectorsController < ApplicationController
   def show
     @directors = Director.all
   end
+
+
 end

@@ -9,6 +9,6 @@ Rails.application.routes.draw do
   get '/directors/:id', to: 'directors#show'
   get '/movies', to: 'movies#index'
   get '/movies/:id', to: 'movies#show'
-  get '/directors/:parent_id/child_table_name', to: 'movies#id'
+  get '/directors/:id/movies', to: 'directors/movies#index'
 
 end

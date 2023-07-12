@@ -260,12 +260,9 @@
           null
         ]
       },
-      "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/app/controllers/movies_controller.rb": {
+      "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/app/controllers/directors/movies_controller.rb": {
         "lines": [
           1,
-          1,
-          0,
-          null,
           null,
           1,
           1,
@@ -280,6 +277,6 @@
         ]
       }
     },
-    "timestamp": 1689116620
+    "timestamp": 1689121219
   }
 }
