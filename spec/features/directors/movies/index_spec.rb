@@ -11,6 +11,7 @@ RSpec.describe 'the directors movie index page' do
     @movie_4 = @director_2.movies.create!(name: "sals movie", length: 70, in_theaters: true)
     @movie_5 = @director_2.movies.create!(name: "sals movie_2", length: 700, in_theaters: true)
     @movie_6 = @director_2.movies.create!(name: "sals movie_3", length: 40, in_theaters: false)
+    @movie_7 = @director_2.movies.create!(name: "sals movie_4", length: 67, in_theaters: false)
     end
 
   it 'displays the directors movies' do
@@ -27,5 +28,7 @@ RSpec.describe 'the directors movie index page' do
     expect(page).to have_content("bobs movie_3")
     expect(page).to have_content(40)
     expect(page).to have_content(true)
+
+    expect(page).to_not have_content("sals movie_4")
   end
 end

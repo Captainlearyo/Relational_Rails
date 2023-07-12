@@ -239,6 +239,100 @@
           null
         ]
       },
+      "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/spec/features/directors/movies/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/spec/features/directors/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/spec/features/movies/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/app/models/director.rb": {
         "lines": [
           1,
@@ -260,6 +354,77 @@
           null
         ]
       },
+      "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/spec/features/movies/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/app/controllers/directors_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
       "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/app/controllers/directors/movies_controller.rb": {
         "lines": [
           1,
@@ -270,13 +435,20 @@
           null
         ]
       },
-      "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/app/controllers/application_controller.rb": {
+      "/Users/clayo/Web-Dev/2-Mod/Relational_Rails/Relational_Rails/app/controllers/movies_controller.rb": {
         "lines": [
           1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1689121219
+    "timestamp": 1689178654
   }
 }

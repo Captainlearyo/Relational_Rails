@@ -4,7 +4,7 @@ class DirectorsController < ApplicationController
   end
 
   def show
-    @directors = Director.all
+    @director = Director.find(params[:id])
   end
 
 
